@@ -758,7 +758,7 @@ img.prpppic {
 
 #section3 {
   background-image: url(/img/Rectangle\ 223.png);
-  width: 1440px;
+  width: 1352px;
   height: 699px;
 }
 .new-star {
@@ -773,7 +773,7 @@ img.prpppic {
     0px 169px 63px -118px rgb(168 93 192 / 22%);
   border-radius: 2px;
 }
-.bg-rd {
-  background-image: url(/img/rd.png);
+.sec6img {
+  background-image: url(../img/rd.png);
   background-color: pu;
 }

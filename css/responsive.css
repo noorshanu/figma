@@ -184,6 +184,9 @@
   .new-star {
     display: none;
   }
+  #section3 {
+    width: auto;
+  }
 }
 
 @media only screen and (max-width: 953px) {
