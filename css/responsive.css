@@ -8,7 +8,7 @@
     width: 111vw !important;
     position: absolute;
     height: 572px;
-    left: -40px;
+    left: 7px;
   }
   .navbar-nav {
     margin-left: 0px !important;
@@ -81,8 +81,16 @@
 
   button#sec5btn {
     margin: 0;
-    padding: 7px 159px;
+    text-align: center;
+    padding: 7px 118px;
     margin-top: 1rem;
+  }
+
+  .headerBottom-title button {
+    padding: 11px 95px;
+  }
+  .mob-txt {
+    font-size: 25px;
   }
 
   h2.sec5text {
@@ -91,7 +99,8 @@
 
   button#sec5btn {
     margin: 0;
-    padding: 7px 159px;
+    text-align: center;
+    padding: 7px 118px;
     margin-top: 1rem;
   }
 
@@ -198,23 +207,23 @@
   }
 
   .card {
-    margin-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
   }
 }
 @media only screen and (max-width: 2056px) {
   .card {
-    margin-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
   }
 }
 @media only screen and (max-width: 845px) {
   .card {
-    margin-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
   }
 }
 
 @media only screen and (max-width: 943px) {
   .card {
-    margin-bottom: 1rem !important;
+    margin-bottom: 2rem !important;
   }
 }
 

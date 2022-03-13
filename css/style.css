@@ -85,7 +85,7 @@ img.headerBottomImg {
 .headerBottom-title p {
   color: #ffffffff;
   font-family: 'Inter';
-  font-size: 17px;
+
   text-transform: uppercase;
   line-height: 131%;
   font-weight: 300;
@@ -277,8 +277,9 @@ section.section4 {
 }
 
 img.sec3GroupImg {
-  width: 431px;
-  margin-top: 28px;
+  width: 424px;
+  margin-top: 43px;
+  margin-left: 41px;
 }
 
 .sec3miiddle h2 {
@@ -477,26 +478,26 @@ img.startlot.star122 {
 
 img.startlot.star111 {
   left: 250px;
-  width: 140px;
-  top: 168rem;
+  width: 204px;
+  top: 169rem;
 }
 
 img.startlot.star133 {
-  width: 140px;
+  width: 204px;
   left: 249px;
-  top: 179rem;
+  top: 185rem;
 }
 
 img.startlot.star222 {
-  width: 140px;
+  width: 204px;
   right: 200px;
   top: 168rem;
 }
 
 img.startlot.star333 {
-  width: 140px;
+  width: 204px;
   right: 200px;
-  top: 179rem;
+  top: 185rem;
 }
 
 .startB {
@@ -601,9 +602,25 @@ img.arrowsbg {
 .sec6topsingle {
   width: 273px;
 }
-
+.sec2s {
+  width: 44%;
+}
+.sec3s {
+  margin-left: 20px;
+}
+.row-two {
+  margin-left: 38%;
+}
+.sec5s {
+  width: 19%;
+}
 .sec6topsingle h2 {
   font-size: 86px;
+}
+.col-lg-4.rotate {
+  left: -109.25px;
+  position: relative;
+  top: -161px;
 }
 
 .sec6topsingle h3 {
@@ -755,6 +772,9 @@ img.prpppic {
   top: 1278.39px;
   transform: rotate(-6deg);
 }
+.small-txt {
+  font-size: 20px;
+}
 
 #section3 {
   background-image: url(/img/Rectangle\ 223.png);
@@ -765,8 +785,8 @@ img.prpppic {
   width: 254.35px !important;
   height: 279.56px !important;
   position: absolute;
-  left: 980px;
-  top: 2747.18px;
+  left: 948px;
+  top: 2770.18px;
 }
 .card-body {
   box-shadow: 0px 9px 22px -3px rgb(48 29 102 / 45%),
@@ -776,4 +796,8 @@ img.prpppic {
 .sec6img {
   background-image: url(../img/rd.png);
   background-color: pu;
+}
+
+.txt-fff {
+  color: #fff !important;
 }
